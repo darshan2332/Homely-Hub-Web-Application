@@ -19,7 +19,7 @@ Hospitable individuals with captivating properties and a passion for sharing the
 Entrepreneurs seeking to leverage the platform to reach a global audience of enthusiastic travelers.
 Technology Stack
 
-- MERN:
+**MERN:**
 1. MongoDB: A flexible NoSQL database for efficient data storage and retrieval of homestays, traveler profiles, and bookings.
 2. Express.js: A robust JavaScript framework that provides the foundation for building the server-side application.
 3. React.js: A popular JavaScript library for creating a user-friendly and interactive web interface.
@@ -27,7 +27,7 @@ Technology Stack
 
 **Architecture & Design**
 
-![MERN-Stack-Development](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/7baa719a-1f97-49b0-87b3-a8fafd17bffa)
+![MERN-Stack-Development](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/6268a705-57df-421b-9915-0538e24fa720)
 
 **Technology Stack**
 - Comprehensive Framework: The architecture of HomelyHub is built on a technology stack 
