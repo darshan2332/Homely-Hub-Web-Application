@@ -1,4 +1,6 @@
-![MERN](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/2aba850b-5c8f-444a-a731-8d9497dfb86e)# Homely-Hub-Web-Application
+![Screenshot 2024-04-02 212801](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/78c372b0-4d0a-49d5-8663-8923a5c852f2)
+
+Homely-Hub-Web-Application
 HomelyHub is a web application built with the MERN stack that connects travelers with unique homestay experiences, offering a more authentic and immersive travel experience.
 
 Project Description
@@ -22,6 +24,8 @@ React.js: A popular JavaScript library for creating a user-friendly and interact
 Node.js: JavaScript runtime environment enabling real-time backend functionality.
 
 Architecture & Design
+
+![MERN-Stack-Architecture-1](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/f606df2a-bb0e-4884-86ca-5fad86c67c65)
 
 Technology Stack
 • Comprehensive Framework: The architecture of HomelyHub is built on a technology stack 
