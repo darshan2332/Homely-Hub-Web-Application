@@ -10,16 +10,16 @@ HomelyHub is a web application built using the powerful MERN stack that fosters 
 
 **Target Audience**
 
--Travelers:
+- Travelers:
 Adventurous souls seeking one-of-a-kind accommodations that reflect local culture and traditions.
 Individuals craving genuine interactions with welcoming hosts for a more personalized travel experience.
 
--Hosts:
+- Hosts:
 Hospitable individuals with captivating properties and a passion for sharing their local knowledge.
 Entrepreneurs seeking to leverage the platform to reach a global audience of enthusiastic travelers.
 Technology Stack
 
--MERN:
+- MERN:
 1. MongoDB: A flexible NoSQL database for efficient data storage and retrieval of homestays, traveler profiles, and bookings.
 2. Express.js: A robust JavaScript framework that provides the foundation for building the server-side application.
 3. React.js: A popular JavaScript library for creating a user-friendly and interactive web interface.
@@ -30,21 +30,21 @@ Technology Stack
 ![MERN-Stack-Development](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/7baa719a-1f97-49b0-87b3-a8fafd17bffa)
 
 **Technology Stack**
-• Comprehensive Framework: The architecture of HomelyHub is built on a technology stack 
+- Comprehensive Framework: The architecture of HomelyHub is built on a technology stack 
 comprising HTML, CSS, JavaScript, and React, with communication facilitated through HTTP, REST 
 APIs, and JSON, and server-side scripting handled by Node.js and Express.js.
-• Database Management: The project utilizes MongoDB, a tree-based database, to manage and store 
+- Database Management: The project utilizes MongoDB, a tree-based database, to manage and store 
 data, ensuring efficient and scalable data management.
 
 **Scalability and Flexibility**
-• Modular Architecture: The architecture and design of HomelyHub are structured to be modular, 
+- Modular Architecture: The architecture and design of HomelyHub are structured to be modular, 
 allowing for scalability and flexibility in accommodating future enhancements and modifications.
-• Adaptability to User Needs: The design caters to the diverse needs of travelers and hosts, offering a 
+- Adaptability to User Needs: The design caters to the diverse needs of travelers and hosts, offering a 
 seamless and intuitive user experience.
 
 **User-Centric Design**
-• Focus on User Experience: The architecture and design prioritize user experience, ensuring that the 
+- Focus on User Experience: The architecture and design prioritize user experience, ensuring that the 
 platform is intuitive, responsive, and visually appealing.
-• Efficient Communication: The design facilitates efficient communication between travelers and hosts, 
+- Efficient Communication: The design facilitates efficient communication between travelers and hosts, 
 enabling seamless interactions and transactions.
 
